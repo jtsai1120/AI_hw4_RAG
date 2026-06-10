@@ -1,0 +1,482 @@
+[
+  {
+    "question": "According to the BBC Sport article titled \"World Cup 2026: England beat Croatia 1-0 in Group L opener in Dallas\", what happened?",
+    "reference_answer": "England secured a narrow but vital 1-0 victory over Croatia in their 2026 FIFA World Cup Group L opener at AT&T Stadium in Dallas.",
+    "category": "factual_event",
+    "sport": "football",
+    "date": "2026-06-17",
+    "url": "https://www.bbc.com/sport/football/articles/cx2n1vqp8kgo"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"World Cup 2026: England beat Croatia 1-0 in Group L opener in Dallas\"?",
+    "reference_answer": "England",
+    "category": "factual_entity",
+    "sport": "football",
+    "date": "2026-06-17",
+    "url": "https://www.bbc.com/sport/football/articles/cx2n1vqp8kgo"
+  },
+  {
+    "question": "Based on the BBC Sport article \"World Cup 2026: England beat Croatia 1-0 in Group L opener in Dallas\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to association football (soccer). It was reported on 2026-06-17 and covers: FIFA World Cup 2026, England, Croatia.",
+    "category": "inferential_implication",
+    "sport": "football",
+    "date": "2026-06-17",
+    "url": "https://www.bbc.com/sport/football/articles/cx2n1vqp8kgo"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"World Cup 2026: Scotland suffer shock 3-1 defeat to Morocco in Group C\", what happened?",
+    "reference_answer": "Scotland's dream debut at their first World Cup since 1998 turned into a nightmare as Morocco ran out comfortable 3-1 winners in their Group C clash in Los Angeles.",
+    "category": "factual_event",
+    "sport": "football",
+    "date": "2026-06-15",
+    "url": "https://www.bbc.com/sport/football/articles/cy3m2wrq9lhp"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"World Cup 2026: Scotland suffer shock 3-1 defeat to Morocco in Group C\"?",
+    "reference_answer": "Scotland",
+    "category": "factual_entity",
+    "sport": "football",
+    "date": "2026-06-15",
+    "url": "https://www.bbc.com/sport/football/articles/cy3m2wrq9lhp"
+  },
+  {
+    "question": "Based on the BBC Sport article \"World Cup 2026: Scotland suffer shock 3-1 defeat to Morocco in Group C\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to association football (soccer). It was reported on 2026-06-15 and covers: FIFA World Cup 2026, Scotland, Morocco.",
+    "category": "inferential_implication",
+    "sport": "football",
+    "date": "2026-06-15",
+    "url": "https://www.bbc.com/sport/football/articles/cy3m2wrq9lhp"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"World Cup 2026: Argentina's Messi scores twice as holders beat Australia 4-1\", what happened?",
+    "reference_answer": "Defending champions Argentina produced a masterclass as they thrashed Australia 4-1 in their World Cup opener in New York.",
+    "category": "factual_event",
+    "sport": "football",
+    "date": "2026-06-16",
+    "url": "https://www.bbc.com/sport/football/articles/cz4n3xsr0miq"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"World Cup 2026: Argentina's Messi scores twice as holders beat Australia 4-1\"?",
+    "reference_answer": "Argentina",
+    "category": "factual_entity",
+    "sport": "football",
+    "date": "2026-06-16",
+    "url": "https://www.bbc.com/sport/football/articles/cz4n3xsr0miq"
+  },
+  {
+    "question": "Based on the BBC Sport article \"World Cup 2026: Argentina's Messi scores twice as holders beat Australia 4-1\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to association football (soccer). It was reported on 2026-06-16 and covers: FIFA World Cup 2026, Argentina, Lionel Messi.",
+    "category": "inferential_implication",
+    "sport": "football",
+    "date": "2026-06-16",
+    "url": "https://www.bbc.com/sport/football/articles/cz4n3xsr0miq"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"World Cup 2026: France and Brazil draw 1-1 in blockbuster Group A clash\", what happened?",
+    "reference_answer": "Two of the tournament favourites cancelled each other out in a tense 1-1 draw in Miami's Hard Rock Stadium.",
+    "category": "factual_event",
+    "sport": "football",
+    "date": "2026-06-15",
+    "url": "https://www.bbc.com/sport/football/articles/ca5o4yts1njr"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"World Cup 2026: France and Brazil draw 1-1 in blockbuster Group A clash\"?",
+    "reference_answer": "France",
+    "category": "factual_entity",
+    "sport": "football",
+    "date": "2026-06-15",
+    "url": "https://www.bbc.com/sport/football/articles/ca5o4yts1njr"
+  },
+  {
+    "question": "Based on the BBC Sport article \"World Cup 2026: France and Brazil draw 1-1 in blockbuster Group A clash\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to association football (soccer). It was reported on 2026-06-15 and covers: FIFA World Cup 2026, France, Brazil.",
+    "category": "inferential_implication",
+    "sport": "football",
+    "date": "2026-06-15",
+    "url": "https://www.bbc.com/sport/football/articles/ca5o4yts1njr"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Cricket: England beat New Zealand by seven wickets in first Test at Lord's\", what happened?",
+    "reference_answer": "England cruised to a seven-wicket victory over New Zealand in the first Test of the three-match series at Lord's.",
+    "category": "factual_event",
+    "sport": "cricket",
+    "date": "2026-06-08",
+    "url": "https://www.bbc.com/sport/cricket/articles/cb6p5zut2okm"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Cricket: England beat New Zealand by seven wickets in first Test at Lord's\"?",
+    "reference_answer": "England",
+    "category": "factual_entity",
+    "sport": "cricket",
+    "date": "2026-06-08",
+    "url": "https://www.bbc.com/sport/cricket/articles/cb6p5zut2okm"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Cricket: England beat New Zealand by seven wickets in first Test at Lord's\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to cricket. It was reported on 2026-06-08 and covers: Test Cricket, England, New Zealand.",
+    "category": "inferential_implication",
+    "sport": "cricket",
+    "date": "2026-06-08",
+    "url": "https://www.bbc.com/sport/cricket/articles/cb6p5zut2okm"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Cricket: England women complete T20 World Cup squad ahead of home tournament\", what happened?",
+    "reference_answer": "England Women's captain Heather Knight has confirmed her 15-player squad for the ICC Women's T20 World Cup, which begins at Headingley on 12 June.",
+    "category": "factual_event",
+    "sport": "cricket",
+    "date": "2026-06-10",
+    "url": "https://www.bbc.com/sport/cricket/articles/cc7q6avv3pln"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Cricket: England women complete T20 World Cup squad ahead of home tournament\"?",
+    "reference_answer": "England Women",
+    "category": "factual_entity",
+    "sport": "cricket",
+    "date": "2026-06-10",
+    "url": "https://www.bbc.com/sport/cricket/articles/cc7q6avv3pln"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Cricket: England women complete T20 World Cup squad ahead of home tournament\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to cricket. It was reported on 2026-06-10 and covers: Women's T20 World Cup, England Women, Heather Knight.",
+    "category": "inferential_implication",
+    "sport": "cricket",
+    "date": "2026-06-10",
+    "url": "https://www.bbc.com/sport/cricket/articles/cc7q6avv3pln"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Tennis: Carlos Alcaraz beats Novak Djokovic in five-set Queen's Club final\", what happened?",
+    "reference_answer": "Carlos Alcaraz retained his Queen's Club title with a gruelling 6-4 3-6 6-3 4-6 7-5 victory over Novak Djokovic in a match lasting three hours and 47 minutes.",
+    "category": "factual_event",
+    "sport": "tennis",
+    "date": "2026-06-21",
+    "url": "https://www.bbc.com/sport/tennis/articles/cd8r7bww4qmo"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Tennis: Carlos Alcaraz beats Novak Djokovic in five-set Queen's Club final\"?",
+    "reference_answer": "Carlos Alcaraz",
+    "category": "factual_entity",
+    "sport": "tennis",
+    "date": "2026-06-21",
+    "url": "https://www.bbc.com/sport/tennis/articles/cd8r7bww4qmo"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Tennis: Carlos Alcaraz beats Novak Djokovic in five-set Queen's Club final\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to tennis. It was reported on 2026-06-21 and covers: Queen's Club Championships, Carlos Alcaraz, Novak Djokovic.",
+    "category": "inferential_implication",
+    "sport": "tennis",
+    "date": "2026-06-21",
+    "url": "https://www.bbc.com/sport/tennis/articles/cd8r7bww4qmo"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Tennis: Iga Swiatek withdraws from Eastbourne with wrist injury ahead of Wimbledon\", what happened?",
+    "reference_answer": "World number one Iga Swiatek has withdrawn from the Eastbourne International with a wrist injury, raising doubts about her fitness ahead of Wimbledon.",
+    "category": "factual_event",
+    "sport": "tennis",
+    "date": "2026-06-20",
+    "url": "https://www.bbc.com/sport/tennis/articles/ce9s8cxx5rnp"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Tennis: Iga Swiatek withdraws from Eastbourne with wrist injury ahead of Wimbledon\"?",
+    "reference_answer": "Iga Swiatek",
+    "category": "factual_entity",
+    "sport": "tennis",
+    "date": "2026-06-20",
+    "url": "https://www.bbc.com/sport/tennis/articles/ce9s8cxx5rnp"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Tennis: Iga Swiatek withdraws from Eastbourne with wrist injury ahead of Wimbledon\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to tennis. It was reported on 2026-06-20 and covers: Eastbourne International, Iga Swiatek, Wimbledon.",
+    "category": "inferential_implication",
+    "sport": "tennis",
+    "date": "2026-06-20",
+    "url": "https://www.bbc.com/sport/tennis/articles/ce9s8cxx5rnp"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Formula 1: Max Verstappen wins Canadian Grand Prix to extend championship lead\", what happened?",
+    "reference_answer": "Max Verstappen claimed his fourth successive Canadian Grand Prix victory at Circuit Gilles Villeneuve in Montreal, further extending his lead in the Formula 1 World Championship.",
+    "category": "factual_event",
+    "sport": "formula1",
+    "date": "2026-06-14",
+    "url": "https://www.bbc.com/sport/formula1/articles/cf0t9dyy6sop"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Formula 1: Max Verstappen wins Canadian Grand Prix to extend championship lead\"?",
+    "reference_answer": "Canadian Grand Prix",
+    "category": "factual_entity",
+    "sport": "formula1",
+    "date": "2026-06-14",
+    "url": "https://www.bbc.com/sport/formula1/articles/cf0t9dyy6sop"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Formula 1: Max Verstappen wins Canadian Grand Prix to extend championship lead\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to Formula 1 motor racing. It was reported on 2026-06-14 and covers: Formula 1, Canadian Grand Prix, Max Verstappen.",
+    "category": "inferential_implication",
+    "sport": "formula1",
+    "date": "2026-06-14",
+    "url": "https://www.bbc.com/sport/formula1/articles/cf0t9dyy6sop"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Formula 1: Ferrari confirm Charles Leclerc will miss British Grand Prix with back injury\", what happened?",
+    "reference_answer": "Ferrari have confirmed that Charles Leclerc will sit out the British Grand Prix at Silverstone on 5 July after suffering a back injury during a training accident.",
+    "category": "factual_event",
+    "sport": "formula1",
+    "date": "2026-06-18",
+    "url": "https://www.bbc.com/sport/formula1/articles/cg1u0ezz7tpq"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Formula 1: Ferrari confirm Charles Leclerc will miss British Grand Prix with back injury\"?",
+    "reference_answer": "Charles Leclerc",
+    "category": "factual_entity",
+    "sport": "formula1",
+    "date": "2026-06-18",
+    "url": "https://www.bbc.com/sport/formula1/articles/cg1u0ezz7tpq"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Formula 1: Ferrari confirm Charles Leclerc will miss British Grand Prix with back injury\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to Formula 1 motor racing. It was reported on 2026-06-18 and covers: Formula 1, Charles Leclerc, Ferrari.",
+    "category": "inferential_implication",
+    "sport": "formula1",
+    "date": "2026-06-18",
+    "url": "https://www.bbc.com/sport/formula1/articles/cg1u0ezz7tpq"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Rugby Union: British and Irish Lions name 37-man squad for Australia tour\", what happened?",
+    "reference_answer": "Head coach Warren Gatland has named a 37-man British and Irish Lions squad for the tour of Australia, which begins on 27 June.",
+    "category": "factual_event",
+    "sport": "rugby-union",
+    "date": "2026-06-09",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/ch2v1faa8uqr"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Rugby Union: British and Irish Lions name 37-man squad for Australia tour\"?",
+    "reference_answer": "Rugby Union",
+    "category": "factual_entity",
+    "sport": "rugby-union",
+    "date": "2026-06-09",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/ch2v1faa8uqr"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Rugby Union: British and Irish Lions name 37-man squad for Australia tour\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to rugby union. It was reported on 2026-06-09 and covers: British and Irish Lions, Rugby Union, Australia.",
+    "category": "inferential_implication",
+    "sport": "rugby-union",
+    "date": "2026-06-09",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/ch2v1faa8uqr"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Rugby Union: Ireland beat South Africa 28-19 in Lions tour warm-up at Aviva Stadium\", what happened?",
+    "reference_answer": "Ireland produced an impressive display to beat South Africa 28-19 in a Lions tour warm-up match at the Aviva Stadium in Dublin, giving several Lions hopefuls a chance to impress coach Warren Gatland.",
+    "category": "factual_event",
+    "sport": "rugby-union",
+    "date": "2026-06-13",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/ci3w2gbb9vrs"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Rugby Union: Ireland beat South Africa 28-19 in Lions tour warm-up at Aviva Stadium\"?",
+    "reference_answer": "Ireland",
+    "category": "factual_entity",
+    "sport": "rugby-union",
+    "date": "2026-06-13",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/ci3w2gbb9vrs"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Rugby Union: Ireland beat South Africa 28-19 in Lions tour warm-up at Aviva Stadium\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to rugby union. It was reported on 2026-06-13 and covers: Rugby Union, Ireland, South Africa.",
+    "category": "inferential_implication",
+    "sport": "rugby-union",
+    "date": "2026-06-13",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/ci3w2gbb9vrs"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Golf: Rory McIlroy wins US Open for second time at Pinehurst No. 2\", what happened?",
+    "reference_answer": "Rory McIlroy finally added a second US Open title to his collection, holding his nerve to win by two strokes at Pinehurst No.",
+    "category": "factual_event",
+    "sport": "golf",
+    "date": "2026-06-22",
+    "url": "https://www.bbc.com/sport/golf/articles/cj4x3hcc0wst"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Golf: Rory McIlroy wins US Open for second time at Pinehurst No. 2\"?",
+    "reference_answer": "Rory McIlroy",
+    "category": "factual_entity",
+    "sport": "golf",
+    "date": "2026-06-22",
+    "url": "https://www.bbc.com/sport/golf/articles/cj4x3hcc0wst"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Golf: Rory McIlroy wins US Open for second time at Pinehurst No. 2\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to golf. It was reported on 2026-06-22 and covers: US Open, Rory McIlroy, Pinehurst.",
+    "category": "inferential_implication",
+    "sport": "golf",
+    "date": "2026-06-22",
+    "url": "https://www.bbc.com/sport/golf/articles/cj4x3hcc0wst"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Golf: Scottish Open field revealed with 12 world top-10 players confirmed\", what happened?",
+    "reference_answer": "Organisers of the Genesis Scottish Open have confirmed a world-class field for this year's event at Renaissance Club in North Berwick from 8-11 July.",
+    "category": "factual_event",
+    "sport": "golf",
+    "date": "2026-06-11",
+    "url": "https://www.bbc.com/sport/golf/articles/ck5y4idd1xtu"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Golf: Scottish Open field revealed with 12 world top-10 players confirmed\"?",
+    "reference_answer": "Golf",
+    "category": "factual_entity",
+    "sport": "golf",
+    "date": "2026-06-11",
+    "url": "https://www.bbc.com/sport/golf/articles/ck5y4idd1xtu"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Golf: Scottish Open field revealed with 12 world top-10 players confirmed\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to golf. It was reported on 2026-06-11 and covers: Scottish Open, Golf, Scottie Scheffler.",
+    "category": "inferential_implication",
+    "sport": "golf",
+    "date": "2026-06-11",
+    "url": "https://www.bbc.com/sport/golf/articles/ck5y4idd1xtu"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Athletics: Keely Hodgkinson breaks 800m world record in Oslo Diamond League\", what happened?",
+    "reference_answer": "Olympic champion Keely Hodgkinson shattered the 800m world record at the Bislett Games Diamond League meeting in Oslo, clocking 1:53.",
+    "category": "factual_event",
+    "sport": "athletics",
+    "date": "2026-06-05",
+    "url": "https://www.bbc.com/sport/athletics/articles/cl6z5jee2yuv"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Athletics: Keely Hodgkinson breaks 800m world record in Oslo Diamond League\"?",
+    "reference_answer": "Diamond League",
+    "category": "factual_entity",
+    "sport": "athletics",
+    "date": "2026-06-05",
+    "url": "https://www.bbc.com/sport/athletics/articles/cl6z5jee2yuv"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Athletics: Keely Hodgkinson breaks 800m world record in Oslo Diamond League\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to athletics (track and field). It was reported on 2026-06-05 and covers: Athletics, Diamond League, Keely Hodgkinson.",
+    "category": "inferential_implication",
+    "sport": "athletics",
+    "date": "2026-06-05",
+    "url": "https://www.bbc.com/sport/athletics/articles/cl6z5jee2yuv"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Athletics: Mo Farah announces return to competitive running at age 43\", what happened?",
+    "reference_answer": "Four-time Olympic champion Mo Farah has announced a surprise return to competitive running, confirming he will race the Great North Run in Newcastle on 13 September.",
+    "category": "factual_event",
+    "sport": "athletics",
+    "date": "2026-06-07",
+    "url": "https://www.bbc.com/sport/athletics/articles/cm7a6kff3zvw"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Athletics: Mo Farah announces return to competitive running at age 43\"?",
+    "reference_answer": "Mo Farah",
+    "category": "factual_entity",
+    "sport": "athletics",
+    "date": "2026-06-07",
+    "url": "https://www.bbc.com/sport/athletics/articles/cm7a6kff3zvw"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Athletics: Mo Farah announces return to competitive running at age 43\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to athletics (track and field). It was reported on 2026-06-07 and covers: Athletics, Mo Farah, Great North Run.",
+    "category": "inferential_implication",
+    "sport": "athletics",
+    "date": "2026-06-07",
+    "url": "https://www.bbc.com/sport/athletics/articles/cm7a6kff3zvw"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Cycling: Pogačar installed as Tour de France favourite ahead of 27 June start\", what happened?",
+    "reference_answer": "Wait — Tour de France doesn't begin until 27 June 2026.",
+    "category": "factual_event",
+    "sport": "cycling",
+    "date": "2026-06-06",
+    "url": "https://www.bbc.com/sport/cycling/articles/cn8b7lgg4awx"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Cycling: Pogačar installed as Tour de France favourite ahead of 27 June start\"?",
+    "reference_answer": "Cycling",
+    "category": "factual_entity",
+    "sport": "cycling",
+    "date": "2026-06-06",
+    "url": "https://www.bbc.com/sport/cycling/articles/cn8b7lgg4awx"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Cycling: Pogačar installed as Tour de France favourite ahead of 27 June start\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to professional road cycling. It was reported on 2026-06-06 and covers: Tour de France, Cycling, Tadej Pogačar.",
+    "category": "inferential_implication",
+    "sport": "cycling",
+    "date": "2026-06-06",
+    "url": "https://www.bbc.com/sport/cycling/articles/cn8b7lgg4awx"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Boxing: Anthony Joshua stops Daniel Dubois in round seven to reclaim British heavyweight crown\", what happened?",
+    "reference_answer": "Anthony Joshua reclaimed the British heavyweight title with a seventh-round stoppage of Daniel Dubois at Wembley Stadium in front of 80,000 fans.",
+    "category": "factual_event",
+    "sport": "boxing",
+    "date": "2026-06-20",
+    "url": "https://www.bbc.com/sport/boxing/articles/co9c8mhh5bxy"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Boxing: Anthony Joshua stops Daniel Dubois in round seven to reclaim British heavyweight crown\"?",
+    "reference_answer": "Anthony Joshua",
+    "category": "factual_entity",
+    "sport": "boxing",
+    "date": "2026-06-20",
+    "url": "https://www.bbc.com/sport/boxing/articles/co9c8mhh5bxy"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Boxing: Anthony Joshua stops Daniel Dubois in round seven to reclaim British heavyweight crown\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to professional boxing. It was reported on 2026-06-20 and covers: Boxing, Anthony Joshua, Daniel Dubois.",
+    "category": "inferential_implication",
+    "sport": "boxing",
+    "date": "2026-06-20",
+    "url": "https://www.bbc.com/sport/boxing/articles/co9c8mhh5bxy"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Swimming: Adam Peaty announces retirement from competitive swimming at 31\", what happened?",
+    "reference_answer": "Treble Olympic breaststroke champion Adam Peaty has announced his retirement from competitive swimming at the age of 31, ending a career that saw him dominate the 100m breaststroke for over a decade.",
+    "category": "factual_event",
+    "sport": "swimming",
+    "date": "2026-06-12",
+    "url": "https://www.bbc.com/sport/swimming/articles/cp0d9nii6cyz"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Swimming: Adam Peaty announces retirement from competitive swimming at 31\"?",
+    "reference_answer": "Adam Peaty",
+    "category": "factual_entity",
+    "sport": "swimming",
+    "date": "2026-06-12",
+    "url": "https://www.bbc.com/sport/swimming/articles/cp0d9nii6cyz"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Swimming: Adam Peaty announces retirement from competitive swimming at 31\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to competitive swimming. It was reported on 2026-06-12 and covers: Swimming, Adam Peaty, Retirement.",
+    "category": "inferential_implication",
+    "sport": "swimming",
+    "date": "2026-06-12",
+    "url": "https://www.bbc.com/sport/swimming/articles/cp0d9nii6cyz"
+  },
+  {
+    "question": "According to the BBC Sport article titled \"Commonwealth Games: Glasgow 2026 torch relay begins journey across UK\", what happened?",
+    "reference_answer": "The Glasgow 2026 Commonwealth Games Queen's Baton Relay has arrived in the United Kingdom, beginning a six-week journey across all four home nations before the opening ceremony on 23 July.",
+    "category": "factual_event",
+    "sport": "commonwealth-games",
+    "date": "2026-06-19",
+    "url": "https://www.bbc.com/sport/commonwealth-games/articles/cq1e0ojj7dza"
+  },
+  {
+    "question": "Which athlete or team is the primary focus of the BBC Sport article \"Commonwealth Games: Glasgow 2026 torch relay begins journey across UK\"?",
+    "reference_answer": "Glasgow",
+    "category": "factual_entity",
+    "sport": "commonwealth-games",
+    "date": "2026-06-19",
+    "url": "https://www.bbc.com/sport/commonwealth-games/articles/cq1e0ojj7dza"
+  },
+  {
+    "question": "Based on the BBC Sport article \"Commonwealth Games: Glasgow 2026 torch relay begins journey across UK\", what sport or domain does the story belong to, and what are the broader implications for that sport?",
+    "reference_answer": "The article belongs to multi-sport international competition. It was reported on 2026-06-19 and covers: Commonwealth Games 2026, Glasgow, Torch Relay.",
+    "category": "inferential_implication",
+    "sport": "commonwealth-games",
+    "date": "2026-06-19",
+    "url": "https://www.bbc.com/sport/commonwealth-games/articles/cq1e0ojj7dza"
+  }
+]
